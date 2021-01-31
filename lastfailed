@@ -1,7 +1,0 @@
-{
-  "first_test.py::TestCalc::test_multiply_calculate_uncorrectly": true,
-  "first_test.py::TestCalcUnCorrectly::test_adding_uncorrectly": true,
-  "first_test.py::TestCalcUnCorrectly::test_division_uncorrectly": true,
-  "first_test.py::TestCalcUnCorrectly::test_multiply_calculate_uncorrectly": true,
-  "first_test.py::TestCalcUnCorrectly::test_subtraction_uncorrectly": true
-}
