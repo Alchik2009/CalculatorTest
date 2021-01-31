@@ -1,0 +1,12 @@
+[
+  "first_test.py::TestCalc::test_multiply_calculate_correctly",
+  "first_test.py::TestCalc::test_multiply_calculate_uncorrectly",
+  "first_test.py::TestCalcCorrectly::test_adding",
+  "first_test.py::TestCalcCorrectly::test_division",
+  "first_test.py::TestCalcCorrectly::test_multiply_calculate_correctly",
+  "first_test.py::TestCalcCorrectly::test_subtraction",
+  "first_test.py::TestCalcUnCorrectly::test_adding_uncorrectly",
+  "first_test.py::TestCalcUnCorrectly::test_division_uncorrectly",
+  "first_test.py::TestCalcUnCorrectly::test_multiply_calculate_uncorrectly",
+  "first_test.py::TestCalcUnCorrectly::test_subtraction_uncorrectly"
+]
